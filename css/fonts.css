@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'regular';
+    src: url(../Fonts/SourceSans3-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../Fonts/SourceSans3-Bold.ttf);
+}
+
